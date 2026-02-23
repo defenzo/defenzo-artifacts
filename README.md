@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/defenzo/defenzo/main/assets/logo.png" alt="Defenzo Logo" width="120" />
+  <img src="logo.png" alt="Defenzo Logo" width="120" />
   <h1>Defenzo Artifacts</h1>
   <p>Official Distribution Channel for the Defenzo Security Brain</p>
   <br />
